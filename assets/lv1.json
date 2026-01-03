@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Khu rừng Ngàn Lá quanh năm xanh tốt, dạt dào sức sống. Trong đó, chú mèo Mio - Người bảo hộ cánh rừng sống hoà thuận với thiên nhiên, tựa kéo dài mãi.\nMột ngày, một làn sương đen độc hại bao phủ lấy bầu trời, khu rừng Ngàn Lá chết dần. \nDòng suối cạn khô, cây cối héo rũ, thay vào đó là dòng nước độc tím đặc như dầu lyunh.\nLà người bảo hộ cho khu rừng, Mio không thể nhắm mắt làm ngơ.\nNghe theo Bác Cá Sấu qua vỏ ốc thần:\n“Chỉ có 'Viên Đá Thanh Tẩy' và 'Chiếc gậy thần' mới cứu được chúng ta. Ta quá già và yếu để đi, nhưng cháu... cháu có đôi chân nhanh nhẹn. Hãy đi thay ta!”\nCầm trong tay sức mạnh của viên đá, Mio tiến vào sâu trong khu rừng quen thuộc nhưng nay trở nên xa lạ. Lá khô giòn tan dưới chân, cây cối biến thành những chướng ngại vật gai góc.\n[[ vào lv1 |lv1]]",
+		"position": {
+			"x": 569,
+			"y": 348
+		},
+		"colorID": 0
+	},
+	{
+		"title": "lv1",
+		"tags": "",
+		"body": "Nhan Skip di lam on day\n",
+		"position": {
+			"x": 630,
+			"y": -40
+		},
+		"colorID": 0
+	}
+]
