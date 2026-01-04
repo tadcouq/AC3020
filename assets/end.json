@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Tên trùm bị đánh bại, hắn tự biến mất sau chớp mắt, còn lại cây rìu rơi tự do\nCây gậy rơi vô định, mắc lại xuống một mỏm đá chênh vênh giữa dòng thác tím ngầu.\nDòng nước tím đục ngầu chảy siết như muốn nuốt chửng tất cả, nhưng không làm chùn bước Mio lấy hết can đảm, nhảy qua những tảng đá trơn trượt, chộp lấy cây gậy.\nCầm cây gậy trở lại thượng nguồn, đưa cây gậy thanh tẩy dòng nước. Ánh sáng của cây tựa làn nước xanh, trả lại sức sống cho khu rừng. Vạn vật trở lại bình thường.\n[[ answer: |1]] ]]",
+		"position": {
+			"x": 512,
+			"y": 270
+		},
+		"colorID": 0
+	},
+	{
+		"title": "1",
+		"tags": "",
+		"body": "Chúc mừng bạn và Mio đã hoàn thành câu chuyện. Bạn có thể nhấn skip để quay trở lại màn hình Menu.",
+		"position": {
+			"x": 632,
+			"y": 50
+		},
+		"colorID": 0
+	}
+]

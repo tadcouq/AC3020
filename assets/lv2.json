@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Vượt qua cánh rừng khô héo hiểm trở, Mio tới trước Hang Khóc. Cửa hang động khổng lồ, nơi gió rít lên từng hồi tựa như tiếng khóc.\nTiến vào bên trong, hang tối tăm, ẩm ướt, chỉ được thắp sáng lờ mờ những ánh sáng tím bởi những cây nấm phát quang và tinh thể đá. Giơ viên đá Thanh tẩy trong hang, nó hoàn toàn vô dụng.\n\"Mình cần tìm cây gậy trong đây càng sớm càng tốt\"\n[[ answer: |Ready]]",
+		"position": {
+			"x": 569,
+			"y": 348
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ready",
+		"tags": "",
+		"body": "Bạn có thể nhấn skip trước khi đoạn hội thoại này loop, bug này tôi không sửa nổi,,,",
+		"position": {
+			"x": 645,
+			"y": 43
+		},
+		"colorID": 0
+	}
+]
